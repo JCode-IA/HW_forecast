@@ -1,6 +1,2 @@
 [server]
 maxUploadSize = 500
-
-# 2-hour TTL for disconnected sessions (default is 120s)
-# Keeps user sessions alive for long analysis workflows
-disconnectedSessionTTL = 7200
